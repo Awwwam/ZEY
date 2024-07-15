@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/131.0.0.53.27;FBBV/668254939;FBRV/0;FBPN/com.facebook.katana;FBLC/sl_SI;FBMF/Banglalink;FBBD/Banglalink;FBDV/OPPO;FBSV/5;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/125.0.0.16.36;FBBV/798579580;FBRV/0;FBPN/com.facebook.katana;FBLC/bg_BG;FBMF/Banglalink;FBBD/Banglalink;FBDV/OPPO;FBSV/8;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
